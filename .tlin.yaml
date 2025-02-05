@@ -1,0 +1,6 @@
+name: tlin
+rules:
+  useless-break:
+    severity: WARNING
+  defer-issues:
+    severity: ERROR
